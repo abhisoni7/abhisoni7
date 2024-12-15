@@ -1,5 +1,5 @@
 ## Hi there 👋
-Passionate about solving problem using programming languages and analytical skills. I specialize in developing web application using React.js, Vue.js, Angular, HTML, CSS, and have expertise is Java, Spring Boot, C#, ASP.Net, SQL server, MySQL, MongoDB.
+Passionate about solving problem using programming languages and analytical skills. I specialize in developing web application using React.js, Vue.js, Angular, HTML, CSS, and have expertise in Java, Spring Boot, C#, ASP.Net, SQL server, MySQL, MongoDB.
 
 ## Skills
 - Java
